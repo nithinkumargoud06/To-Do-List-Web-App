@@ -86,3 +86,7 @@ Attaches event listeners to the new list item for toggling completion and for de
 Appends the new <li> to the main task list (<ul>).
 
 Clears the input field.
+
+Output
+
+<img width="848" height="550" alt="Image" src="https://github.com/user-attachments/assets/d9f8ab20-ae9d-4b1b-89b0-03ba5b80146a" />
